@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    background: black;
+    font-family: 'Karla', sans-serif;
+
+    
+}
+#box-container {
+
+    margin: 20px auto;
+    width: 80%;
+    height: 500px;
+    padding: 20px;
+    background-image: url("images/code.jpg");
+    background-size: 100vh;
+}
+#container {
+    width: 450px;
+    height: 350px;
+    margin: 20px auto 0 auto;
+    background: #1F2937;
+   
+}
+#heading {
+    width: 300px;
+    height: 80px;
+    font-weight: 800;
+    font-size: 30px;
+    color: white;
+    line-height: 40px;
+    margin: 10px 0 0 40px;
+    padding: 50px 0 0 0;
+}
+#heading span {
+    color: #4ADF86;
+    display: block;
+}
+#sub-heading {
+    color: #D5D4D8;
+    margin: 15px 20px 15px 40px;
+    font-size: 15px;
+   
+    
+}
+#generate {
+    background: #10B981;
+    color: white;
+    font-size: 12px;
+    border-radius: 4px;
+    border: none;
+    padding: 9px;
+    margin: 15px 20px 15px 40px;
+}
+#generate:hover {
+    background: #047857;
+}
+
+#line {
+    width: 449px;
+    border: 1px solid #2F3E53;
+}
+
+.password-btn {
+   
+    background: #273549;
+    border-radius: 4px;
+    
+    border: none;
+    color: #10B981;
+    padding: 8px 35px 8px 35px;
+    text-align: center;
+    font-size: 14px;
+    margin: 10px;
+
+    
+}
+.password-btn:hover {
+    background: #064E3B;
+}
+#message {
+    color: white;
+    margin: 15px 20px 0px 40px;
+    font-size: 12px;
+}
+#second-password {
+    
+}
+#button-container {
+    margin: 0 auto;
+    text-align: center;
+}
